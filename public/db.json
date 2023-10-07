@@ -1,0 +1,27 @@
+[
+    {    
+        "categoryImg" : "../img/categ1.jpg",
+        "categoryTitle" :"Plushies"
+    },
+    {    
+        "categoryImg" : "../img/categ2.jpg",
+        "categoryTitle" :"Bags"
+    },
+    {    
+        "categoryImg" : "../img/categ3.jpg",
+        "categoryTitle" :"Cushion"
+    },
+    {    
+        "categoryImg" : "../img/categ4.jpg",
+        "categoryTitle" :"Headphones"
+    },
+    {    
+        "categoryImg" : "../img/categ6.png",
+        "categoryTitle" :"Tops"
+    },
+    {    
+        "categoryImg" : "../img/categ7.png",
+        "categoryTitle" :"Cap"
+    }
+]
+

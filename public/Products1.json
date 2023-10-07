@@ -1,0 +1,15 @@
+[
+    {    
+        "productImg" : "https://media.discordapp.net/attachments/1072938365533569145/1157787679736463390/beams-home95.png?width=1353&height=671",
+        "productTitle" :"Crochet" ,
+        "productPrice" : 20,
+        "productDescription" : "lorem ipsum dolor sit amet"
+    },
+    {    
+        "productImg" : "",
+        "productTitle" :"" ,
+        "productPrice" : 20,
+        "productDescription" : ""
+    }
+]
+
